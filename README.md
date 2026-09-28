@@ -1,42 +1,49 @@
 <div align="center">
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     HERO HEADER BANNER                         -->
+<!--                  ULTRA ANIMATED HERO HEADER                    -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Qayoom%20Akhtar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=⚡%20Full%20Stack%20AI%20Engineer%20%7C%20Building%20Intelligent%20Web%20Products&descAlignY=72&descSize=15&descColor=cccccc" width="100%"/>
+<!-- Main hero banner — venom type with twinkling stars + purple-cyan gradient -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24,20,11,30,24&height=280&section=header&text=Qayoom%20Akhtar&fontSize=82&fontColor=ffffff&animation=twinkling&fontAlignY=42&stroke=A855F7&strokeWidth=2&desc=⚡%20Full%20Stack%20AI%20Engineer%20%7C%20Building%20Intelligent%20Web%20Products&descAlignY=62&descSize=17&descColor=e2d9f3&reversal=true" width="100%"/>
+
+<!-- Animated sparkle SVG separator -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&random=false&width=700&height=22&lines=✦+•+•+•+•+•+•+•+•+•+•+•+•+•+•+•+•+•+•+•+✦;✧+•+•+•+•+•+•+•+•+•+•+•+•+•+•+•+•+•+•+•+✧" alt="divider"/>
+
+<!-- Primary animated role typewriter — bigger, bolder -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2600&pause=800&color=A855F7&background=00000000&center=true&vCenter=true&random=false&width=760&height=55&lines=🚀+Full+Stack+Engineer+%7C+React+%26+Next.js;🤖+AI+Application+Engineer+%7C+LLM+%26+RAG;⚙️+Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Qdrant;🔥+Production-Grade+AI-Integrated+Apps;💡+B.Tech+CSE+%7C+Chandigarh+University)](https://git.io/typing-svg)
+
+<!-- Secondary animated role typewriter — subtle complement -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1200&color=6366F1&center=true&vCenter=true&random=false&width=600&height=30&lines=Groq+•+NVIDIA+NIM+•+Cerebras+•+Google+Gemini+•+OpenAI;React+•+Next.js+•+Node.js+•+NestJS+•+Prisma+ORM;PostgreSQL+•+MongoDB+•+Redis+•+Qdrant+Vector+DB;Docker+•+Vercel+•+Firebase+•+Git+%26+GitHub)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Animated role typewriter -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=720&height=50&lines=🚀+Full+Stack+Engineer+%7C+React+%26+Next.js;🤖+AI+Application+Engineer+%7C+LLM+%26+RAG+Pipelines;⚙️+Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Qdrant;🔥+Building+Production-Grade+AI-Integrated+Apps;💡+Chandigarh+University+%7C+B.Tech+CSE)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Status badges row -->
-<a href="https://qayoom-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-qayoom--portfolio.vercel.app-A855F7?style=for-the-badge&labelColor=1a1a2e"/></a>
+<!-- Status badges — pill style row -->
+<a href="https://qayoom-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_on_Vercel-A855F7?style=for-the-badge&labelColor=0f0f1a"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/📍 Location-Mohali%2C Punjab%2C India-blue?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍_Location-Mohali%2C_Punjab%2C_India-6366f1?style=for-the-badge&labelColor=0f0f1a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🟢 Status-Open to Work-22c55e?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🟢_Status-Open_To_Work-22c55e?style=for-the-badge&labelColor=0f0f1a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🎓 B.Tech-Chandigarh University-orange?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-Chandigarh_University-f59e0b?style=for-the-badge&labelColor=0f0f1a"/>
 
 <br/><br/>
 
-<!-- Social + counter -->
-<a href="https://www.linkedin.com/in/qayoom-akhtar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- Social links — styled -->
+<a href="https://www.linkedin.com/in/qayoom-akhtar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a"/></a>
 &nbsp;
-<a href="https://www.instagram.com/qayoom.akhtar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/qayoom.akhtar"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0f1a"/></a>
 &nbsp;
-<a href="mailto:qayoomakhtar72@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:qayoomakhtar72@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0f1a"/></a>
 &nbsp;
-<a href="https://qayoom-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://qayoom-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_Now-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0f1a"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=test-Ois&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/test-Ois?logo=GitHub&style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/test-Ois)
+<!-- Counter + followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=test-Ois&color=A855F7&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/test-Ois?logo=GitHub&style=for-the-badge&color=A855F7&labelColor=0f0f1a&label=GitHub+Followers)](https://github.com/test-Ois)
 
 </div>
 
