@@ -67,9 +67,9 @@ I care deeply about:
 <div align="center">
 
 <!-- Real stats from portfolio -->
-| 🏗️ Projects Built | 🤖 AI Integrations | 💼 Experience |
+| 🏗️ Projects Built | 🤖 LLM Providers Used | 💼 Experience |
 |:---:|:---:|:---:|
-| **15+** | **5+** | **6+ Months** |
+| **15+** | **Groq · NVIDIA · Cerebras · Gemini** | **6+ Months** |
 
 </div>
 
@@ -84,31 +84,38 @@ I care deeply about:
 <div align="center">
 
 ### 🤖 AI / LLM (Primary Focus)
-![](https://img.shields.io/badge/LLM_API_Integration-Advanced-A855F7?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e)
-![](https://img.shields.io/badge/RAG_Pipelines-Advanced-A855F7?style=flat-square&logo=databricks&logoColor=white&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Qdrant_Vector_DB-Proficient-6366f1?style=flat-square&logo=databricks&logoColor=white&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Prompt_Engineering-Intermediate-8b5cf6?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Multi_Model_Routing-Proficient-A855F7?style=flat-square&labelColor=1a1a2e)
 
-**Providers:** Groq · NVIDIA NIM · Cerebras · Google Gemini · OpenAI
+![](https://img.shields.io/badge/LLM%20API%20Integration-Advanced-A855F7?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/RAG%20Pipelines-Advanced-A855F7?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Qdrant%20Vector%20DB-Proficient-6366f1?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Multi%20Model%20Routing-Proficient-8b5cf6?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Prompt%20Engineering-Intermediate-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/SSE%20Streaming-Proficient-6d28d9?style=for-the-badge&labelColor=1a1a2e)
+
+**Providers:** `Groq` &nbsp;·&nbsp; `NVIDIA NIM` &nbsp;·&nbsp; `Cerebras` &nbsp;·&nbsp; `Google Gemini` &nbsp;·&nbsp; `OpenAI`
 
 ### ⚛️ Frontend
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,redux,framer&theme=dark&perline=9"/>
 
 ### 🔧 Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark&perline=9"/>
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/SSE_Streaming-Proficient-22c55e?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Socket.io-Intermediate-22c55e?style=flat-square&logo=socket.io&logoColor=white&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Prisma_ORM-Proficient-22c55e?style=flat-square&logo=prisma&logoColor=white&labelColor=1a1a2e)
+
+![](https://img.shields.io/badge/Socket.io-WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Prisma%20ORM-Type--Safe%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1a1a2e)
+![](https://img.shields.io/badge/RESTful%20APIs-MVC%20Architecture-22c55e?style=for-the-badge&labelColor=1a1a2e)
 
 ### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,firebase&theme=dark&perline=9"/>
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/Qdrant-Vector_DB-A855F7?style=flat-square&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Neon-PostgreSQL-blue?style=flat-square&labelColor=1a1a2e)
+
+![](https://img.shields.io/badge/Qdrant-Vector%20Database-A855F7?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Neon-Cloud%20PostgreSQL-00E5FF?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e)
 
 ### ☁️ Cloud & DevOps & Tools
+
 <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,figma,postman,vite&theme=dark&perline=9"/>
 
 </div>
