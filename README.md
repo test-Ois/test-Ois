@@ -51,21 +51,13 @@
 
 ## 👋 Hey, I'm Qayoom!
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+I'm a **Full Stack AI Engineer** and a **B.Tech Computer Science Engineering graduate from Chandigarh University**.
 
-I'm a **Full Stack AI Engineer** from **Mohali, Punjab, India 🇮🇳**, currently pursuing **B.Tech in Computer Science Engineering** at Chandigarh University.
+I specialize in building **scalable, production-ready web applications with AI integration**, working across the full stack — from modern frontend experiences and REST APIs to AI-powered features, RAG pipelines, and real-time systems.
 
-Over the past **6+ months**, I've been obsessively building **production-grade, AI-integrated web applications** — from **RAG pipelines** and **multi-provider LLM routing** systems to **real-time streaming UIs** and **scalable REST APIs**.
+My core stack includes **React, Next.js, TypeScript, Node.js, Express, NestJS, PostgreSQL, MongoDB, and Qdrant**, along with technologies such as **Docker, Firebase, and Vercel**.
 
-My stack revolves around **React / Next.js** on the frontend, **Node.js / Express / NestJS** on the backend, and databases like **PostgreSQL, MongoDB, and Qdrant** (vector DB) — all wrapped with modern DevOps tools like **Docker, Firebase, and Vercel**.
-
-I care deeply about:
-- 🧠 **Intelligent products** — AI systems that actually solve real problems
-- ⚡ **Performance** — sub-100ms streaming, optimized queries, zero jitter
-- 🔐 **Security** — JWT auth, OAuth, sanitized inputs, rate limiting
-- 🎨 **Beautiful UIs** — glassmorphism, smooth animations, dark-mode polish
-
-<br clear="right"/>
+I'm particularly interested in **AI engineering, full-stack development, LLM applications, system design, and building practical products that solve real-world problems.**
 
 <div align="center">
 
