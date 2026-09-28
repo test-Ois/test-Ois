@@ -1,149 +1,268 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Qayoom%20Akhtar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20India&descAlignY=56&descSize=18" width="100%" />
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Qayoom%20Akhtar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=7B2FBE&strokeWidth=2&desc=⚡%20Full%20Stack%20Developer%20%7C%20Building%20the%20Future%20of%20Web&descAlignY=60&descSize=16" width="100%"/>
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD9F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Qayoom+👋;Full+Stack+Developer+%7C+3%2B+Years+Exp;MERN+Stack+%7C+Next.js+%7C+TypeScript;Building+scalable+web+applications;Open+to+exciting+opportunities!)](https://git.io/typing-svg)
+<!-- Animated typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=🚀+MERN+Stack+%7C+Next.js+%7C+TypeScript;⚙️+Microservices+%7C+Kafka+%7C+Docker;☁️+AWS+%7C+Kubernetes+%7C+Cloud+Native;🤖+AI+%2F+ML+Explorer+%7C+TensorFlow;💡+Turning+Ideas+into+Scalable+Products!)](https://git.io/typing-svg)
 
-</div>
+<br/>
 
----
+<!-- Profile badges row -->
+![](https://img.shields.io/badge/Location-India%20🇮🇳-blueviolet?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Focus-Full%20Stack%20Dev-7B2FBE?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Available-Open%20To%20Work%20✅-success?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=flat-square&labelColor=1a1a2e)
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<br/>
 
-### 🧑‍💻 About Me
-
-- 🔭 Full Stack Developer specializing in **MERN Stack & Next.js**
-- 🌱 Currently exploring **Microservices, Kafka & Cloud Architecture**
-- 💡 Passionate about building **scalable, high-performance** applications
-- 🚀 Experienced with **Docker, Kubernetes & AWS**
-- 🎯 Always learning something new in the **AI/ML** space
-- 📍 Based in **India** 🇮🇳
-- 📫 Reach me at **qayoomakhtar72@gmail.com**
-- ⚡ Fun fact: I turn ☕ coffee into clean, scalable code!
-
-<br clear="right"/>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qayoom-akhtar/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/test-Ois)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qayoomakhtar72@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=test-Ois&color=A855F7&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/test-Ois?logo=GitHub&style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/test-Ois)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME SECTION                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="55%">
+
+## 👨‍💻 About Me
+
+```javascript
+const qayoom = {
+  name     : "Qayoom Akhtar",
+  location : "India 🇮🇳",
+  role     : "Full Stack Developer",
+  
+  stack    : {
+    frontend : ["React", "Next.js", "Angular", "TypeScript"],
+    backend  : ["Node.js", "NestJS", "Express", "Kafka"],
+    database : ["MongoDB", "PostgreSQL", "Redis", "MySQL"],
+    devops   : ["Docker", "Kubernetes", "AWS", "Firebase"],
+  },
+
+  currentlyLearning : ["System Design", "AI/ML", "Web3"],
+  funFact : "I turn ☕ into scalable code!",
+  
+  askMeAbout : [
+    "Full Stack Dev", "API Design",
+    "Cloud Architecture", "React Ecosytem"
+  ],
+};
+```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT SECTION                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🌐 Let's Connect
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### 🧰 Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<a href="https://www.linkedin.com/in/qayoom-akhtar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+&nbsp;
+<a href="https://github.com/test-Ois">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
+&nbsp;
+<a href="mailto:qayoomakhtar72@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   SKILLS & EXPERTISE                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=test-Ois&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6AD9F7&icon_color=6AD9F7&text_color=ffffff" alt="Qayoom's GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=test-Ois&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD9F7&ring=6AD9F7&fire=FF6B6B&currStreakLabel=6AD9F7" alt="Qayoom's Streak Stats"/>
+### ◈ Languages
 
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark&perline=10" />
 
-<div align="center">
+### ◈ Frontend & Mobile
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=test-Ois&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD9F7&text_color=ffffff&layout=compact&langs_count=8" alt="Qayoom's Top Languages"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,html,css&theme=dark&perline=10" />
 
-</div>
+### ◈ Backend & APIs
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark&perline=10" />
+<br/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
-## 🏆 GitHub Trophies
+### ◈ Databases
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark&perline=10" />
+<br/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=test-Ois&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### ◈ Cloud, DevOps & Tools
 
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Qayoom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=test-Ois&bg_color=0D1117&color=6AD9F7&line=6AD9F7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,git,figma,postman&theme=dark&perline=10" />
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
 
 </div>
 
 ---
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   EXPERTISE LEVEL BARS                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📊 Expertise Levels
+
+```text
+JavaScript / TypeScript  ████████████████████░░  90%  🔥 Expert
+React / Next.js          ███████████████████░░░  88%  🔥 Expert
+Node.js / Express        ████████████████████░░  90%  🔥 Expert
+MongoDB / Databases      ████████████████░░░░░░  78%  ⚡ Advanced
+Docker / Kubernetes      ██████████████░░░░░░░░  70%  ⚡ Advanced
+AWS / Cloud              █████████████░░░░░░░░░  65%  🌱 Intermediate
+Python / AI/ML           ████████████░░░░░░░░░░  60%  🌱 Intermediate
+System Design            ████████████████░░░░░░  78%  ⚡ Advanced
+```
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATISTICS                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📈 GitHub Statistics
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=test-Ois&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&ring_color=A855F7" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=test-Ois&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=ffffff&dates=888888" />
 
-**✨ Thanks for visiting! Drop a ⭐ if you like what you see!**
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=test-Ois&color=6AD9F7&style=for-the-badge&label=PROFILE+VIEWS)
+<div align="center">
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=test-Ois&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8" />
+&nbsp;&nbsp;
+<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=test-Ois&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true&radius=8" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   CONTRIBUTION SNAKE                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB TROPHIES                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=test-Ois&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  WHAT I'M DOING NOW                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🔥 What I'm Up To
+
+<div align="center">
+
+|  | Currently | Status |
+|---|---|---|
+| 🔭 | Building **scalable web applications** | 🟢 Active |
+| 🌱 | Learning **System Design & Cloud Architecture** | 🟢 Active |
+| 🤖 | Exploring **AI integrations** in web apps | 🟡 In Progress |
+| 📦 | Deep diving into **Microservices & Kafka** | 🟢 Active |
+| 💼 | Open to **exciting job opportunities** | 🟢 Available |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     DEV QUOTE                                -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     FOOTER                                   -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+</div>
+
+<div align="center">
+
+### 🤝 Let's build something amazing together!
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+<br/>
+
+**Made with ❤️ by [Qayoom Akhtar](https://github.com/test-Ois) | © 2025**
 
 </div>
