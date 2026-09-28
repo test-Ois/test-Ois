@@ -7,11 +7,12 @@
 <!-- Dynamic hero banner with cyan-purple wave & soft glowing title -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,11,30,24&height=220&section=header&text=Qayoom%20Akhtar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=A855F7&strokeWidth=2&desc=%E2%9A%A1%20Full%20Stack%20AI%20Engineer%20%7C%20Building%20Intelligent%20Web%20Products&descAlignY=68&descSize=16&descColor=e2d9f3" width="100%"/>
 
-<!-- Animated Typing Subtitle -->
-<br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&random=false&width=650&height=45&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+MERN+%26+Next.js;%F0%9F%A4%96+AI+Application+Engineer+%7C+LLM+%26+RAG;%E2%9A%99%EF%B8%8F+Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Qdrant;%F0%9F%94%A5+Building+Production-Grade+Web+%26+AI+Apps;%F0%9F%92%A1+B.Tech+CSE+Student+%7C+Chandigarh+University)](https://git.io/typing-svg)
+<br/><br/>
 
-<br/>
+<!-- Animated Typing Subtitle -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&random=false&width=650&height=45&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+MERN+%26+Next.js;%F0%9F%A4%96+AI+Application+Engineer+%7C+LLM+%26+RAG;%E2%9A%99%EF%B8%8F+Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Qdrant;%F0%9F%94%A5+Building+Production-Grade+Web+%26+AI+Apps;%F0%9F%92%A1+B.Tech+CSE+Student+%7C+Chandigarh+University" alt="Typing SVG" /></a>
+
+<br/><br/>
 
 <!-- Status badges row -->
 <a href="https://qayoom-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_on_Vercel-A855F7?style=for-the-badge&labelColor=1a1a2e"/></a>
@@ -36,9 +37,9 @@
 <br/><br/>
 
 <!-- Profile views & followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=test-Ois&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=test-Ois&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/test-Ois?logo=GitHub&style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/test-Ois)
+<a href="https://github.com/test-Ois"><img src="https://img.shields.io/github/followers/test-Ois?logo=GitHub&style=for-the-badge&color=A855F7&labelColor=1a1a2e" alt="GitHub followers" /></a>
 
 </div>
 
